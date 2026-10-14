@@ -1,8 +1,7 @@
 # Cybersecurity & Networking Fundamentals — Answers
 
-> **Student:** [Your Name]  
-> **Class/Batch:** [Your Class/Batch]  
-> **Assessment:** Minor Project
+> Student: [TAMMU KARTHIKEYA DATTA]  
+> Assessment:Minor Project
 
 ## Section A — Cybersecurity Fundamentals
 
